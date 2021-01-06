@@ -1,0 +1,1 @@
+const nav = "a new nav for my page"
